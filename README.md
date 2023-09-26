@@ -1,4 +1,5 @@
 # 2D-poong_game
+![poong2d](https://github.com/misterdot10/2D-poong_game/assets/121602059/8847f408-68ac-4542-9808-b58b9aa88605)
 Welcome to Poong, a Ping-Pong game that offers an exciting experience battling NPCs. It's a deep dive into the world of table tennis, filled with challenges and fun, where you'll test your skills and strategies against intelligent NPC opponents.
 # Fitur
 •	Classic 2D Pong game  
