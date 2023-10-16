@@ -2,7 +2,7 @@
 //using System.Collections.Generic;
 using UnityEngine;
 
-public class Tambah_Kencang : MonoBehaviour
+public class addFast : MonoBehaviour
 {
     public float BounceStrange;
     private void OnCollisionEnter2D(Collision2D collision){
