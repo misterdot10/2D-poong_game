@@ -17,11 +17,11 @@ Welcome to Poong, a Ping-Pong game that offers an exciting experience battling N
 |------|------|
 | GameManager.cs | The main script that initializes and runs the game. |
 | Scoring_zone.cs   | Contains the game logic, scoring, and collision detection. |
-| Tongkat_player.cs | Manages player attributes and actions. |
-| Tongkat.cs | Stores the size and shape of the player's and NPC's sticks. |
-| Tongkat_komputer.cs | Manages NPC attributes and actions. |
+| StickPlayer.cs | Manages player attributes and actions. |
+| Stick.cs | Stores the size and shape of the player's and NPC's sticks. |
+| StickComputer.cs | Manages NPC attributes and actions. |
 | Ball.cs | stores the size, shape, direction, and action of the ball |
-| Tambah_Kencang.cs | Manages the speed of the ball |
+| addFast.cs | Manages the speed of the ball |
 | README.md | Documentation on how to install and play the game. |
 # Contributions
 We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
